@@ -1,0 +1,9 @@
+eventos.dat
+produtos.dat
+*.dat
+*.idx
+*.dat
+*.idx
+*.csv
+*.tmp
+__pycache__/
